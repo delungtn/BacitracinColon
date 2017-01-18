@@ -1,1 +1,1 @@
-# BacitracinColon
+# BacitracinColonI am investigating whether antibiotics can directly interact with neurons to alter gut-brain signalling. My dataset contains measurements of neuronally dependent motility parameters before and after colon luminal perfusion with antibiotic treatment. I hope to assess whether any changes to peristaltic reflexes between paired control and treatment experiments are statistically discernable and to meaningfully summarize my data set.
